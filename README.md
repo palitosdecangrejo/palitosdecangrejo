@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Alonso and I'm a student, from CPIFP Alan turing</h1>
+<h1 align="left">Hi 👋! My name is Alonso and I'm a student in CPIFP Alan turing</h1>
 
 ## About me
 <br>
