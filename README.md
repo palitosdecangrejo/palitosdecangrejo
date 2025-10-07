@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Alonso and I'm a student, from CPIFP Alan turing</h2>
+<h1 align="left">Hi 👋! My name is Alonso and I'm a student, from CPIFP Alan turing</h1>
 
-# Languages I'm studying
+## Languages I'm studying
 <ul>
   <li>Java</li>
   <li>JS</li>
-  <li>Python</li>
+  <li>Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" /></li>
 </ul>
 
 <div align="center">
