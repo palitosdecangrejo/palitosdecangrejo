@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://media.tenor.com/yz1hrVPqABEAAAAj/miku-shooting-no-background.gif" height="35"/>
+  <img src="https://media.tenor.com/yz1hrVPqABEAAAAj/miku-shooting-no-background.gif"/>
 </div>
 
 ###
