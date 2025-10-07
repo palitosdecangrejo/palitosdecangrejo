@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! My name is Alonso and I'm a student, from CPIFP Alan turing</h1>
 
-<div alight="top"> ## About me </div>
+## About me \n
 <div>
   <div align="left"> I like to code in my free time and enjoy it. I also like games like <a href="https://es.wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://es.wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
   <div align="right">
