@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋! My name is Alonso and I'm a student, from CPIFP Alan turing</h1>
 
+## About me
+I like to code in my free time and enjoy it. I also like games like <a href="https://es.wikipedia.org/wiki/Red_Dead_Redemption_2"> RDR2 </a> and <a href="https://es.wikipedia.org/wiki/Minecraft"> Minecraft </a>
+
 ## Languages I'm studying
 <ul>
   <li><img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="30" /></li>
@@ -7,7 +10,7 @@
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></li>
 </ul>
 
----
+
 
 <div align="right">
   <img align="right" height="150" src="https://media.tenor.com/WR0F84xVaNcAAAAj/cockroach-jumping.gif"  />
