@@ -2,10 +2,9 @@
 
 ## Languages I'm studying
 <ul>
-  <li>Java</li>
-  <li>JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  /></li>
-  <li>Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="20" /></li>
+  <li><img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="20" /></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  /></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /></li>
 </ul>
 
 <div align="center">
