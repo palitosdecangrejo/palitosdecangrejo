@@ -1,7 +1,12 @@
 <h1 align="left">Hi 👋! My name is Alonso and I'm a student, from CPIFP Alan turing</h1>
 
 ## About me
-I like to code in my free time and enjoy it. I also like games like <a href="https://es.wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://es.wikipedia.org/wiki/Minecraft"> Minecraft</a>
+<div>
+  <div align="left"> I like to code in my free time and enjoy it. I also like games like <a href="https://es.wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://es.wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
+  <div align="right">
+  <img align="right" height="150" src="https://media.tenor.com/WR0F84xVaNcAAAAj/cockroach-jumping.gif"  />
+</div>
+  
 
 ## Languages I'm studying
 <ul>
@@ -11,10 +16,6 @@ I like to code in my free time and enjoy it. I also like games like <a href="htt
 </ul>
 
 ### THANKS FOR WATCHING!
-
-<div align="right">
-  <img align="right" height="150" src="https://media.tenor.com/WR0F84xVaNcAAAAj/cockroach-jumping.gif"  />
-</div>
 
 <div align="left">
   <img src="https://media.tenor.com/yz1hrVPqABEAAAAj/miku-shooting-no-background.gif"/>
