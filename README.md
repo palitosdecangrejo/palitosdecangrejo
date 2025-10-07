@@ -2,12 +2,8 @@
 
 ## About me
 <br>
-<div>
-  <div align="left"> I like to code in my free time and enjoy it. I also like games like <a href="https://es.wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://es.wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
-  <div align="right">
-  <img align="right" height="100" src="https://media.tenor.com/WR0F84xVaNcAAAAj/cockroach-jumping.gif"  />
-</div>
-  
+<div align="left"> I like to code in my free time and enjoy it. I also like games like <a href="https://es.wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://es.wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
+<img align="right" height="100" src="https://media.tenor.com/WR0F84xVaNcAAAAj/cockroach-jumping.gif"  />
 
 ## Languages I'm studying
 <ul>
