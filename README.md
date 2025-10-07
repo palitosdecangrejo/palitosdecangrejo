@@ -10,7 +10,7 @@ I like to code in my free time and enjoy it. I also like games like <a href="htt
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></li>
 </ul>
 
-
+### THANKS FOR WATCHING!
 
 <div align="right">
   <img align="right" height="150" src="https://media.tenor.com/WR0F84xVaNcAAAAj/cockroach-jumping.gif"  />
@@ -18,8 +18,4 @@ I like to code in my free time and enjoy it. I also like games like <a href="htt
 
 <div align="left">
   <img src="https://media.tenor.com/yz1hrVPqABEAAAAj/miku-shooting-no-background.gif"/>
-</div>
-
-<div align="center">
-  <img src=https://media.tenor.com/K6JFH5Gg6LcAAAAi/cats-and-fire-cat-and-fire-ball.gif />
 </div>
