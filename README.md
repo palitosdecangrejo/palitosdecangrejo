@@ -13,4 +13,4 @@
 
 ### THANKS FOR WATCHING!
 
-<img src="https://raw.githubusercontent.com/gist/aviaryan/3f7c37d7af78e5bfcb4c7efa590f9cae/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif" />
+<img src="3d271128514d50a47c22e5f1beecb4fc.gif" />
