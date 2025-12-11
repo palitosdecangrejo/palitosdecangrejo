@@ -7,7 +7,7 @@
 ## Currently studying
 
 <img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="30" /></li>
-
+<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" height="30" /></li>
 
 ### THANKS FOR WATCHING!
 
