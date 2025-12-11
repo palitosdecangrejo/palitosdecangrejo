@@ -11,4 +11,4 @@
 
 ### THANKS FOR WATCHING!
 
-<img src="https://i.pinimg.com/originals/4f/0b/a8/4f0ba83c34411da0477218a01ed3b5a1.gif" height="60%" />
+<img src="https://i.pinimg.com/originals/4f/0b/a8/4f0ba83c34411da0477218a01ed3b5a1.gif" height="200" />
