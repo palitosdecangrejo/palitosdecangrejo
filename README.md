@@ -8,6 +8,8 @@
 
 <img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="50" /></li>
 <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" height="50" /></li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="50" /></li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50" /></li>
 
 ### THANKS FOR WATCHING!
 
