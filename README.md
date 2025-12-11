@@ -2,7 +2,7 @@
 
 ## About me
 <br>
-<div align="left"> I like to code in my free time and I enjoy listening to music. I also like games like <a href="https://wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
+<div align="left"> I like to code in my free time and I really enjoy listening to music. I also like games like <a href="https://wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
 
 ## Currently studying
 
