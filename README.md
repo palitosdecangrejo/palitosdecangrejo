@@ -1,8 +1,6 @@
-<h1 align="left">Hi 👋! My name is Alonso and I'm a student in CPIFP Alan turing</h1>
-
 ## About me
 <br>
-<div align="left"> I like to code in my free time and I really enjoy listening to music and my car. I also like games like <a href="https://wikipedia.org/wiki/Red_Dead_Redemption_2">RDR2</a> and <a href="https://wikipedia.org/wiki/Minecraft"> Minecraft</a> </div>
+<div align="left">Hi! My name is Alonso and I'm currently studying 2º DAM at CPIFP Alan turing. I like to code in my free time, and I also love music and cars.
 
 ## Currently studying
 
